@@ -12,5 +12,5 @@ Sistema Operacional: Linux <br />
 
 **Instruções para executar:**
   - Passo 1: Abra o terminal e digite: `git clone https://github.com/marcosrebelo97/Desafio-Programacao`
-  - Passo 2: Após isso, acesse o local (pasta) do arquivo através do comando: `cd Desafio-Programacao/Arquivos`
+  - Passo 2: Após isso, acesse o local do arquivo através do comando: `cd Desafio-Programacao/Arquivos`
   - Passo 3: Para executar digite: `java nomedoarquivo.java`

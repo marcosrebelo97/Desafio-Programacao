@@ -51,11 +51,11 @@ public class Main
     if (var_max == 0 || var_min == 0 || var_digito == 0 || var_especial == 0)
       {
 	System.out.println
-	  ("Sua senha ainda nC#o C) segura! \nC	 necessC!rio conter 6 caracteres entre:\n - Letras MaiC:sculas e MinC:sculas\n - NC:meros e Caracteres Especiais !@#$%^&*()-+ ");
+	  ("Sua senha ainda nao eh segura! \nEh necessario conter 6 caracteres entre:\n - Letras Maiusculas e Minusculas\n - Numeros e Caracteres Especiais !@#$%^&*()-+ ");
       }
     else
       {
-	System.out.println ("Sua senha estC! segura!");
+	System.out.println ("Sua senha esta segura!");
       }
 
     scanner.close ();

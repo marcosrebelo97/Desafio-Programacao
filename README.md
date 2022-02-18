@@ -5,11 +5,11 @@ Linguagem: Java <br />
 Sistema Operacional: Linux <br />
 
 *****************************
-Requisitos: 
+**Requisitos:** 
   - JDK (Java SE Development Kit) instalado;
   - Encontra em: https://www.oracle.com/java/technologies/downloads/
 
-Instruções para executar:
+**Instruções para executar:**
   - Abra o terminal e digte: `git clone <https://github.com/marcosrebelo97/Desafio-Programacao>`
   - Acesse o local (pasta) do arquivo com: `cd Desafio-Programacao/`
   - Para executar digite: `java nomedoarquivo.java`

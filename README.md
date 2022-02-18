@@ -11,6 +11,6 @@ Sistema Operacional: Linux <br />
   - Encontra em: https://www.oracle.com/java/technologies/downloads/
 
 **Instruções para executar:**
-  - Abra o terminal e digte: `git clone <https://github.com/marcosrebelo97/Desafio-Programacao>`
+  - Abra o terminal e digte: `git clone https://github.com/marcosrebelo97/Desafio-Programacao`
   - Acesse o local (pasta) do arquivo com: `cd Desafio-Programacao/Arquivos`
   - Para executar digite: `java nomedoarquivo.java`

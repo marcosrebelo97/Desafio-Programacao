@@ -1,7 +1,7 @@
 <h1 align="center"> Academia Técnica Capgemini 2022 </h1> <br />
 
-Nome: Marcos Guerreiro Rebelo <br />
 Etapa: Desafio de Programação <br />
+Nome: Marcos Guerreiro Rebelo <br />
 Linguagem: Java <br />
 Sistema Operacional: Linux <br />
 
@@ -11,6 +11,6 @@ Sistema Operacional: Linux <br />
   - Encontra em: https://www.oracle.com/java/technologies/downloads/
 
 **Instruções para executar:**
-  - Abra o terminal e digte: `git clone https://github.com/marcosrebelo97/Desafio-Programacao`
-  - Acesse o local (pasta) do arquivo com: `cd Desafio-Programacao/Arquivos`
-  - Para executar digite: `java nomedoarquivo.java`
+  - Passo 1: Abra o terminal e digite: `git clone https://github.com/marcosrebelo97/Desafio-Programacao`
+  - Passo 2: Após isso, acesse o local (pasta) do arquivo através do comando: `cd Desafio-Programacao/Arquivos`
+  - Passo 3: Para executar digite: `java nomedoarquivo.java`

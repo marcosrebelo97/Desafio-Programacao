@@ -2,8 +2,6 @@
 
 Etapa: Desafio de Programação <br />
 Nome: Marcos Guerreiro Rebelo <br />
-Linguagem: Java <br />
-Sistema Operacional: Linux <br />
 
 *****************************
 **Requisitos:** 

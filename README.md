@@ -1,4 +1,4 @@
-<h2 align="center"> Academia Técnica Capgemini 2022 </h1> <br />
+<h2 align="center"> Academia Técnica Capgemini 2022 </h2> <br />
 
 Etapa: Desafio de Programação <br />
 Nome: Marcos Guerreiro Rebelo <br />
